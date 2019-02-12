@@ -1,15 +1,6 @@
 {
 	"POOLS" : [
-	{
-	"name" : "NBXPool.com",
-	"url" : "https://nbxpool.com/",
-	"api" : "https://nbxpool.com:8119/",
-	"type" : "forknote",
-	"miningAddress" : "nbxpool.com",
-	"miningPortLow" : "3333",
-	"miningPortMid" : "4444",
-	"miningPortHigh" : "5555"
-	},
+	
 	{
 	"name" :"Hackerknowledge.de",
 	"url" : "https://nbx.hackerknowledge.de/",
